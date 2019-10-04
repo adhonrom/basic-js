@@ -35,3 +35,9 @@ p {
   margin: 0px;
 }
 ```
+Bayangkan jika ada 100 nama / card maka kita akan menulis satu persatu. maka hal itu sangat tidak efektif. maka kita gunakan librari react dimana kita bisa membuat lebih simple karena masing-masing terpecah menjadi komponen. 
+
+komponen itu biasanya berupa function, maka kita bikin function sederhana sebagai berikut
+
+
+
