@@ -37,7 +37,39 @@ p {
 ```
 Bayangkan jika ada 100 nama / card maka kita akan menulis satu persatu. maka hal itu sangat tidak efektif. maka kita gunakan librari react dimana kita bisa membuat lebih simple karena masing-masing terpecah menjadi komponen. 
 
+secara sederahan kita bisa menyimpulkan react adalah sebuah tool / librari yang disediakan untuk memahami apa itu komponen (untuk membaca pembuatan sebuah komponen). kemudian ada react-DOM yang merupakan librari yang yang disediakan untuk merender komponen tadi yang dibuat dari react ke DOM nya.
+
+
 komponen itu biasanya berupa function, maka kita bikin function sederhana sebagai berikut
+
+
+dan bisa kita ganti semua kode di atas dengan react berikut:
+di html cukup ditulis 
+```html
+<div id="root"></div>
+```
+di JS sebagai berikut 
+```javascript
+const Card = (props) => {
+  return(
+  <div class="kartu">
+    <p class="tittle"> {props.name} </p>
+    <p>{props.job}</p>
+  </div>
+  )
+}
+
+const App = () => {
+  return (
+    <div>
+       <Card name="Contoh Misalnya" job="Project Manajer"  />
+       <Card name="Contoh Lagi" job="FrontEnd"/>
+       <Card name="Contoh Terakhir" job="UI/UX"/>
+    </div>
+  )
+}
+ReactDOM.render(<App />, document.querySelector('#root'))
+```
 
 
 
