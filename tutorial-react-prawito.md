@@ -108,3 +108,5 @@ ReactDOM.render(<App />, document.querySelector('#root'))
 
 
 Sumber: [ReactJS Tutorial](https://www.youtube.com/watch?v=EbdwcqZAkN0&list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb&index=2)
+[simulasi](https://codepen.io/adhon/pen/ZEEEYVJ)
+###### keterangan: setting pada javascript JavaScript Preprocessor: Babel, Add External Scripts/Pens: React + ReactDOM
