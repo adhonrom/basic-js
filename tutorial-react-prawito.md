@@ -107,4 +107,4 @@ ReactDOM.render(<App />, document.querySelector('#root'))
 ```
 
 
-[Sumber](https://www.youtube.com/watch?v=EbdwcqZAkN0&list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb&index=2)
+Sumber: [https://www.youtube.com/watch?v=EbdwcqZAkN0&list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb&index=2](https://www.youtube.com/watch?v=EbdwcqZAkN0&list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb&index=2)
