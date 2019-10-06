@@ -40,3 +40,5 @@ let mahasiswa1 = {
 //     }
 // }
 
+semua kode di atas di coba di code pen
+
