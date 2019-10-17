@@ -17,5 +17,8 @@
 [Async - await](https://medium.com/coderupa/panduan-komplit-asynchronous-programming-pada-javascript-part-4-async-await-fc504c344238)<br>
 
 --
-Reaact
-[how I learned react](https://daveceddia.com/how-i-learned-react/?ck_subscriber_id=361789605)
+Reaact <br>
+[how I learned react](https://daveceddia.com/how-i-learned-react/?ck_subscriber_id=361789605)<br>
+[little project](https://www.golangprograms.com/react-js-projects-for-beginners.html)
+
+
