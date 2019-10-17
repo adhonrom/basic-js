@@ -19,6 +19,8 @@
 --
 Reaact <br>
 [how I learned react](https://daveceddia.com/how-i-learned-react/?ck_subscriber_id=361789605)<br>
-[little project](https://www.golangprograms.com/react-js-projects-for-beginners.html)
+[little project](https://www.golangprograms.com/react-js-projects-for-beginners.html)<br>
+[telusuri webnya banyak inspirasi react app sederhana](https://anakbit.com/contoh-react-js)
+
 
 
