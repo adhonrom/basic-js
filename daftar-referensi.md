@@ -23,4 +23,4 @@ Reaact <br>
 [telusuri webnya banyak inspirasi react app sederhana](https://anakbit.com/contoh-react-js)
 
 
-
+[refernesi belajar react](https://medium.com/coderupa/mau-belajar-react-di-2018-7e751b00af9c)
