@@ -19,8 +19,8 @@
 --
 Html - csss <br>
 [membuat menu drop down](https://www.youtube.com/watch?v=wHFflWvii3M)<br>
-[membuat navbar responsive](https://www.youtube.com/watch?v=gXkqy0b4M5g)
-[css Grid crash course](https://www.youtube.com/watch?v=jV8B24rSN5o)
+[membuat navbar responsive](https://www.youtube.com/watch?v=gXkqy0b4M5g)<br>
+[css Grid crash course](https://www.youtube.com/watch?v=jV8B24rSN5o)<br>
 
 Reaact <br>
 [primary resource](https://reactjs.id/)<br>
