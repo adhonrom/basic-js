@@ -30,6 +30,7 @@ Reaact <br>
 
 
 [refernesi belajar react](https://medium.com/coderupa/mau-belajar-react-di-2018-7e751b00af9c)
+[banyak direkomendasikan karena gratis](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 next ikuti saja tutoriall ini:
 
