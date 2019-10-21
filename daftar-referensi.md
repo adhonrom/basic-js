@@ -18,6 +18,7 @@
 
 --
 Html - csss <br>
+[membuat side-bar, belajar dasar banyak di w3school](https://www.w3schools.com/w3css/w3css_sidebar.asp)<br>
 [membuat menu drop down](https://www.youtube.com/watch?v=wHFflWvii3M)<br>
 [membuat navbar responsive](https://www.youtube.com/watch?v=gXkqy0b4M5g)<br>
 [css Grid crash course](https://www.youtube.com/watch?v=jV8B24rSN5o)<br>
