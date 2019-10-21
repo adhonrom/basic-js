@@ -18,7 +18,8 @@
 
 --
 Html - csss <br>
-[membuat menu drop down](https://www.youtube.com/watch?v=wHFflWvii3M)
+[membuat menu drop down](https://www.youtube.com/watch?v=wHFflWvii3M)<br>
+[membuat navbar responsive](https://www.youtube.com/watch?v=gXkqy0b4M5g)
 
 Reaact <br>
 [di chanel youtube ini lumayan lengkap, ada hooks, redux, dll](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)<br>
