@@ -18,6 +18,7 @@
 
 --
 Html - csss <br>
+[referensi-carousel-css](https://www.youtube.com/watch?v=9bkGcXjVsUo&list=PLXnlmTyiLYEr0moZvjJRlYs5-e8i7EwxX&index=2)
 [membuat side-bar, belajar dasar banyak di w3school](https://www.w3schools.com/w3css/w3css_sidebar.asp)<br>
 [membuat menu drop down](https://www.youtube.com/watch?v=wHFflWvii3M)<br>
 [membuat navbar responsive](https://www.youtube.com/watch?v=gXkqy0b4M5g)<br>
