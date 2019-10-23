@@ -29,7 +29,8 @@ Reaact <br>
 [di chanel youtube ini lumayan lengkap, ada hooks, redux, dll](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)<br>
 [how I learned react](https://daveceddia.com/how-i-learned-react/?ck_subscriber_id=361789605)<br>
 [little project](https://www.golangprograms.com/react-js-projects-for-beginners.html)<br>
-[telusuri webnya banyak inspirasi react app sederhana](https://anakbit.com/contoh-react-js)
+[telusuri webnya banyak inspirasi react app sederhana](https://anakbit.com/contoh-react-js)<br>
+[selesaikan course ini](https://ihatetomatoes.net/courses/)
 
 
 [refernesi belajar react](https://medium.com/coderupa/mau-belajar-react-di-2018-7e751b00af9c)<br>
