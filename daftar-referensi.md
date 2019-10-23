@@ -39,3 +39,6 @@ next ikuti saja tutoriall ini:
 [ #1 React by Example | 🔨 How To Create React App | React ▶ React Router ▶ Context API](https://www.youtube.com/watch?v=n6hZheHIArQ)
 
 [untuk belajar Graphql, ini bisa jadi refrensi](https://www.howtographql.com/)
+
+
+[ini bisa dipelajari dulu: Figma & Material UI](https://www.youtube.com/watch?v=6CARDnUXmp8)
