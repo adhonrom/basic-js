@@ -25,6 +25,7 @@ Html - csss <br>
 [css Grid crash course](https://www.youtube.com/watch?v=jV8B24rSN5o)<br>
 
 Reaact <br>
+[styling in react](https://www.kirupa.com/react/styling_in_react.htm)
 [primary resource](https://reactjs.id/)<br>
 [penjelasan lengkap tentang react router](https://afrijaldzuhri.com/belajar-routing-dalam-react/)<br>
 [di chanel youtube ini lumayan lengkap, ada hooks, redux, dll](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)<br>
