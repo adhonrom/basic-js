@@ -26,6 +26,7 @@ Html - csss <br>
 
 Reaact <br>
 [primary resource](https://reactjs.id/)<br>
+[penjelasan lengkap tentang react router](https://afrijaldzuhri.com/belajar-routing-dalam-react/)<br>
 [di chanel youtube ini lumayan lengkap, ada hooks, redux, dll](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)<br>
 [how I learned react](https://daveceddia.com/how-i-learned-react/?ck_subscriber_id=361789605)<br>
 [little project](https://www.golangprograms.com/react-js-projects-for-beginners.html)<br>
