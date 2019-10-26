@@ -47,3 +47,6 @@ next ikuti saja tutoriall ini:
 
 
 [ini bisa dipelajari dulu: Figma & Material UI](https://www.youtube.com/watch?v=6CARDnUXmp8)
+
+project-react:
+[bikin resort web](https://www.youtube.com/watch?v=LXJOvkVYQqA)
