@@ -52,4 +52,5 @@ redux:
 
 project-react:
 [bikin resort web](https://www.youtube.com/watch?v=LXJOvkVYQqA)
+[bikin aplikasi to do list - keren ini](https://www.youtube.com/watch?v=hT3j87FMR6M)
 
