@@ -60,3 +60,5 @@ project-react:
 animasi:
 [filter-reduce-animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 
+
+[PERSIAPAN KELAS BOOTCAMP](https://www.freecodecamp.org/news/the-ultimate-bootcamp-primer/)
