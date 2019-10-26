@@ -47,6 +47,7 @@ next ikuti saja tutoriall ini:
 [untuk belajar Graphql, ini bisa jadi refrensi](https://www.howtographql.com/)
 
 redux:
+[coba buka ini](https://www.freecodecamp.org/news/redux-in-24-lines-of-code/)
 [redux tutorial beginner](https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/)
 
 [ini bisa dipelajari dulu: Figma & Material UI](https://www.youtube.com/watch?v=6CARDnUXmp8)
