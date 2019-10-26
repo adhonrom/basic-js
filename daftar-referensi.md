@@ -23,6 +23,7 @@ Html - csss <br>
 [membuat menu drop down](https://www.youtube.com/watch?v=wHFflWvii3M)<br>
 [membuat navbar responsive](https://www.youtube.com/watch?v=gXkqy0b4M5g)<br>
 [css Grid crash course](https://www.youtube.com/watch?v=jV8B24rSN5o)<br>
+[css - bootstrap](https://www.youtube.com/watch?time_continue=9791&v=RyTRgQ7k6QE)
 
 Reaact <br>
 [styling in react](https://www.kirupa.com/react/styling_in_react.htm)
