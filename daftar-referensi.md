@@ -55,3 +55,6 @@ project-react:
 [bikin resort web](https://www.youtube.com/watch?v=LXJOvkVYQqA)<br>
 [bikin aplikasi to do list - keren ini](https://www.youtube.com/watch?v=hT3j87FMR6M)<br>
 
+animasi:
+[filter-reduce-animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
+
