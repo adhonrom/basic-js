@@ -51,6 +51,7 @@ redux:
 [ini bisa dipelajari dulu: Figma & Material UI](https://www.youtube.com/watch?v=6CARDnUXmp8)
 
 project-react:
-[bikin resort web](https://www.youtube.com/watch?v=LXJOvkVYQqA)
-[bikin aplikasi to do list - keren ini](https://www.youtube.com/watch?v=hT3j87FMR6M)
+[update your portofolio](https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/)<br>
+[bikin resort web](https://www.youtube.com/watch?v=LXJOvkVYQqA)<br>
+[bikin aplikasi to do list - keren ini](https://www.youtube.com/watch?v=hT3j87FMR6M)<br>
 
