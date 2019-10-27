@@ -61,4 +61,7 @@ animasi:
 [filter-reduce-animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 
 
-[PERSIAPAN KELAS BOOTCAMP](https://www.freecodecamp.org/news/the-ultimate-bootcamp-primer/)
+[PERSIAPAN KELAS BOOTCAMP](https://www.freecodecamp.org/news/the-ultimate-bootcamp-primer/)<br>
+
+ui-ux:
+[refrensi buku dan blog dunia frontend](https://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/)
