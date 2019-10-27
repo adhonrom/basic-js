@@ -50,7 +50,8 @@ redux:
 [coba buka ini](https://www.freecodecamp.org/news/redux-in-24-lines-of-code/)
 [redux tutorial beginner](https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/)
 
-[ini bisa dipelajari dulu: Figma & Material UI](https://www.youtube.com/watch?v=6CARDnUXmp8)
+[ini bisa dipelajari dulu: Figma & Material UI](https://www.youtube.com/watch?v=6CARDnUXmp8)<br>
+[tentang figma dan material](https://www.youtube.com/watch?v=6CARDnUXmp8)<br>
 
 project-react:
 [update your portofolio](https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/)<br>
