@@ -48,6 +48,7 @@ next ikuti saja tutoriall ini:
 [untuk belajar Graphql, ini bisa jadi refrensi](https://www.howtographql.com/)
 
 redux:
+[ada graphic-nya](https://medium.com/@javascript_7596/react-redux-concept-workflow-cheatsheet-be00e3ffa853)
 [Penjelasan paling simple, dari step Grider](https://www.youtube.com/watch?v=3sjMRS1gJys)
 [coba buka ini](https://www.freecodecamp.org/news/redux-in-24-lines-of-code/)
 [redux tutorial beginner](https://www.freecodecamp.org/news/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6/)
