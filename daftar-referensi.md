@@ -27,6 +27,7 @@ Html - csss <br>
 [bikin card detail - bagussss bangett](https://www.youtube.com/watch?v=7hDklEEnP1I)
 
 Reaact <br>
+[Ini Tutorial React Basic](https://scrimba.com/g/glearnreact)
 [styling in react](https://www.kirupa.com/react/styling_in_react.htm)
 [primary resource](https://reactjs.id/)<br>
 [penjelasan lengkap tentang react router](https://afrijaldzuhri.com/belajar-routing-dalam-react/)<br>
