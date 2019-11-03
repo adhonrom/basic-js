@@ -25,7 +25,8 @@ Html - csss <br>
 [membuat navbar responsive](https://www.youtube.com/watch?v=gXkqy0b4M5g)<br>
 [css Grid crash course](https://www.youtube.com/watch?v=jV8B24rSN5o)<br>
 [css - bootstrap](https://www.youtube.com/watch?time_continue=9791&v=RyTRgQ7k6QE)<br>
-[bikin card detail - bagussss bangett](https://www.youtube.com/watch?v=7hDklEEnP1I)
+[bikin card detail - bagussss bangett](https://www.youtube.com/watch?v=7hDklEEnP1I)<br>
+[Grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
 
 Reaact <br>
 [Ini Tutorial React Basic](https://scrimba.com/g/glearnreact)
