@@ -19,6 +19,7 @@
 --
 Html - csss <br>
 [stop, belajar html css dulu, ini alasannya, ada beberapa tambahan referensi](https://www.freecodecamp.org/news/put-down-the-javascript-learn-html-css/)<br>
+[ini seesaikan dulu mumpung gratis](https://www.udemy.com/course/build-responsive-website-designs-with-html5-and-css/)<br>
 [referensi-carousel-css](https://www.youtube.com/watch?v=9bkGcXjVsUo&list=PLXnlmTyiLYEr0moZvjJRlYs5-e8i7EwxX&index=2)
 [membuat side-bar, belajar dasar banyak di w3school](https://www.w3schools.com/w3css/w3css_sidebar.asp)<br>
 [membuat menu drop down](https://www.youtube.com/watch?v=wHFflWvii3M)<br>
