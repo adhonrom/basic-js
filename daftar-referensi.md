@@ -19,7 +19,6 @@
 --
 Html - csss <br>
 [stop, belajar html css dulu, ini alasannya, ada beberapa tambahan referensi](https://www.freecodecamp.org/news/put-down-the-javascript-learn-html-css/)<br>
-[ini tntang latihan props](https://www.freecodecamp.org/news/how-to-develop-your-react-superpowers-with-the-render-props-pattern-b74e68c6d053/)<br>
 [ini seesaikan dulu mumpung gratis](https://www.udemy.com/course/build-responsive-website-designs-with-html5-and-css/)<br>
 [referensi-carousel-css](https://www.youtube.com/watch?v=9bkGcXjVsUo&list=PLXnlmTyiLYEr0moZvjJRlYs5-e8i7EwxX&index=2)
 [membuat side-bar, belajar dasar banyak di w3school](https://www.w3schools.com/w3css/w3css_sidebar.asp)<br>
@@ -33,6 +32,8 @@ Html - csss <br>
 Reaact <br>
 [pelajari basicnya dulu](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
 [Ini Tutorial React Basic](https://scrimba.com/g/glearnreact)<br>
+[ini tntang latihan props](https://www.freecodecamp.org/news/how-to-develop-your-react-superpowers-with-the-render-props-pattern-b74e68c6d053/)<br>
+[latihan state](https://www.freecodecamp.org/news/get-pro-with-react-setstate-in-10-minutes-d38251d1c781/)<br>
 [styling in react](https://www.kirupa.com/react/styling_in_react.htm)<br>
 [primary resource](https://reactjs.id/)<br>
 [penjelasan lengkap tentang react router](https://afrijaldzuhri.com/belajar-routing-dalam-react/)<br>
