@@ -30,8 +30,9 @@ Html - csss <br>
 [Grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
 
 Reaact <br>
-[Ini Tutorial React Basic](https://scrimba.com/g/glearnreact)
-[styling in react](https://www.kirupa.com/react/styling_in_react.htm)
+[pelajari basicnya dulu](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
+[Ini Tutorial React Basic](https://scrimba.com/g/glearnreact)<br>
+[styling in react](https://www.kirupa.com/react/styling_in_react.htm)<br>
 [primary resource](https://reactjs.id/)<br>
 [penjelasan lengkap tentang react router](https://afrijaldzuhri.com/belajar-routing-dalam-react/)<br>
 [di chanel youtube ini lumayan lengkap, ada hooks, redux, dll](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)<br>
