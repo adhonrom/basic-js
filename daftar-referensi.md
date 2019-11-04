@@ -53,6 +53,7 @@ next ikuti saja tutoriall ini:
 [untuk belajar Graphql, ini bisa jadi refrensi](https://www.howtographql.com/)
 
 redux:
+[belajar langsung dari penciptanya](https://egghead.io/courses/getting-started-with-redux)<br>
 [playlist-tutorial codevolution, pelajari chanel sebelumnya dulu](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)<br>
 [referensi yang menarik, ada ilustrasinya](https://www.freecodecamp.org/news/how-to-connect-react-to-redux-a-diagrammatic-guide-d2687c14750a/)<br>
 [ada graphic-nya](https://medium.com/@javascript_7596/react-redux-concept-workflow-cheatsheet-be00e3ffa853)<br>
