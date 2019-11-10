@@ -30,6 +30,7 @@ Html - csss <br>
 [Grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)<br>
 [referensi speed layout card css-1](https://www.youtube.com/watch?v=R68DCmeaLqg)<br>
 [nike-card-css](https://www.youtube.com/watch?v=jYAmKNOJ4Ck)<br>
+[card-html-css](https://www.youtube.com/watch?v=4o5n4NjQmnM)<br>
 
 Reaact <br>
 [pelajari basicnya dulu](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
