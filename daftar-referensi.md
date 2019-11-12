@@ -34,6 +34,7 @@ Html - csss <br>
 
 Reaact <br>
 [ini basic singkat, pelajari saja](https://www.youtube.com/watch?v=QqLkkBKVDyM)<br>
+[Learn to Code: How React.js Works](https://www.youtube.com/watch?v=mLMfx8BEt8g)<br>
 [pelajari basicnya dulu](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
 [Ini Tutorial React Basic](https://scrimba.com/g/glearnreact)<br>
 [ini tntang latihan props](https://www.freecodecamp.org/news/how-to-develop-your-react-superpowers-with-the-render-props-pattern-b74e68c6d053/)<br>
