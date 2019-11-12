@@ -62,6 +62,7 @@ next ikuti saja tutoriall ini:
 
 redux:
 [belajar langsung dari penciptanya](https://egghead.io/courses/getting-started-with-redux)<br>
+[redux, india version, presentasinya bagus](https://www.youtube.com/watch?v=tOtGnCBXU3U)<br>
 [rangkuman tentang redux](https://www.freecodecamp.org/news/redux-get-the-ball-rolling-in-10min-9d9551ff4b3c/)<br>
 [playlist-tutorial codevolution, pelajari chanel sebelumnya dulu](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)<br>
 [referensi yang menarik, ada ilustrasinya](https://www.freecodecamp.org/news/how-to-connect-react-to-redux-a-diagrammatic-guide-d2687c14750a/)<br>
