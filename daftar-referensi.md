@@ -51,6 +51,7 @@ Reaact <br>
 [selesaikan course ini](https://ihatetomatoes.net/courses/)<br>
 [membangun aplikasi pencari film dimulai dari pembuatan wireframe/prototype](https://www.youtube.com/watch?v=Mg7Ma5i8NgM&list=PLqGj3iMvMa4LFqyGab_aR7M0zfQm2KTuX&index=1)<br>
 [ini refrensi react design](https://www.youtube.com/watch?v=TxLjRV2rMgo&list=PLTiL2VdJfAbKzUW58vFbuDjawskcadF6q&index=7)<br>
+[ini tentang story book, coba pahami alurnya](https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/)<br>
 
 
 [refernesi belajar react](https://medium.com/coderupa/mau-belajar-react-di-2018-7e751b00af9c)<br>
