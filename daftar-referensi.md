@@ -33,6 +33,7 @@ Html - csss <br>
 [card-html-css](https://www.youtube.com/watch?v=4o5n4NjQmnM)<br>
 
 Reaact <br>
+[Ini kereeen banget sumpah](https://designcode.io/courses)<br>
 [ini basic singkat, pelajari saja](https://www.youtube.com/watch?v=QqLkkBKVDyM)<br>
 [Learn to Code: How React.js Works](https://www.youtube.com/watch?v=mLMfx8BEt8g)<br>
 [How React Works behind the scenes - Pluralsight audition](https://www.youtube.com/watch?v=gApwC9Ek9yo)<br>
