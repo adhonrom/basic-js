@@ -61,7 +61,9 @@ next ikuti saja tutoriall ini:
 
 [ #1 React by Example | 🔨 How To Create React App | React ▶ React Router ▶ Context API](https://www.youtube.com/watch?v=n6hZheHIArQ)
 
-[untuk belajar Graphql, ini bisa jadi refrensi](https://www.howtographql.com/)
+[untuk belajar Graphql, ini bisa jadi refrensi](https://www.howtographql.com/)<br>
+[cloning Netflix dengan React](https://www.youtube.com/watch?v=bFKKi3pMrL4)<br>
+
 
 redux:
 [belajar langsung dari penciptanya](https://egghead.io/courses/getting-started-with-redux)<br>
