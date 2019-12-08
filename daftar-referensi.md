@@ -31,6 +31,7 @@ Html - csss <br>
 [referensi speed layout card css-1](https://www.youtube.com/watch?v=R68DCmeaLqg)<br>
 [nike-card-css](https://www.youtube.com/watch?v=jYAmKNOJ4Ck)<br>
 [card-html-css](https://www.youtube.com/watch?v=4o5n4NjQmnM)<br>
+[BASIC STYLING CSS HTML - this is first](https://www.youtube.com/watch?v=RHj5bdrfCr8&feature=youtu.be)<br>
 
 Reaact <br>
 [Ini kereeen banget sumpah](https://designcode.io/courses)<br>
