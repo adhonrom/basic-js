@@ -98,4 +98,7 @@ animasi:
 [PERSIAPAN KELAS BOOTCAMP](https://www.freecodecamp.org/news/the-ultimate-bootcamp-primer/)<br>
 
 ui-ux:
-[refrensi buku dan blog dunia frontend](https://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/)
+[refrensi buku dan blog dunia frontend](https://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/)<br>
+
+intermezzo PHP
+[membuat e-commerse dgn PHP dan mysql](https://www.youtube.com/watch?v=T8LI-lPL9jI&feature=youtu.be&fbclid=IwAR2U2Jqebyp5zg9P7IWo6kas5AtuOn4vza7TNoi0vCIMZHMwprEa0YufXuY)<br>
