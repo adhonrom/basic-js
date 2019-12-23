@@ -60,6 +60,7 @@ Reaact <br>
 
 [refernesi belajar react](https://medium.com/coderupa/mau-belajar-react-di-2018-7e751b00af9c)<br>
 [banyak direkomendasikan karena gratis](https://egghead.io/courses/the-beginner-s-guide-to-react)<br>
+[react-web: Design dari sktech sampe selesai --> speed tutorial](https://www.youtube.com/watch?v=Mh8HXILuiJE)<br>
 
 next ikuti saja tutoriall ini:
 
