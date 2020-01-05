@@ -94,6 +94,7 @@ Socket-IO
 [project Socket IO - live chat](https://www.youtube.com/watch?v=ZwFA3YMfkoc)<br>
 
 animasi:
+[Javascript Animated Navbar Tutorial](https://www.youtube.com/watch?v=RLc8NB2JyxE)<br>
 [filter-reduce-animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
 
 
